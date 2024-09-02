@@ -1,1 +1,1 @@
-# customer-sartisfaction-prediction
+# customer-satisfaction-prediction
